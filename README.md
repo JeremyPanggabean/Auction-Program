@@ -21,8 +21,8 @@ Welcome to the Auction Program! This is a simple Python program that allows mult
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/auction-program.git
-   cd auction-program
+   git clone https://github.com/JeremyPanggabean/Auction-Program.
+   cd Auction-Program
    ```
 
 2. Run the program:
