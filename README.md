@@ -22,16 +22,21 @@ Welcome to the Auction Program! This is a simple Python program that allows mult
 
    ```bash
    git clone https://github.com/JeremyPanggabean/Auction-Program.git
+   ```
+
+2. Change the directory:
+
+   ```bash
    cd Auction-Program
    ```
 
-2. Run the program:
+3. Run the program:
 
    ```bash
    python auction_program.py
    ```
 
-3. Follow the on-screen instructions to place bids.
+4. Follow the on-screen instructions to place bids.
 
 ## Example
 
