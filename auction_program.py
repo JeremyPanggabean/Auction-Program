@@ -1,3 +1,5 @@
+# Welcome output
+print("Welcome to the Auction Program!")
 # import logo from the art.py file
 import art
 print(art.logo)
